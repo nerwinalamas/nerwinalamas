@@ -10,6 +10,7 @@ import {
   FaHtml5,
   FaCss3Alt,
   FaNodeJs,
+  FaBootstrap,
 } from "react-icons/fa";
 import { SiFirebase, SiExpress, SiMongodb } from "react-icons/si";
 import { DiAndroid } from "react-icons/di";
@@ -36,8 +37,9 @@ const Projects = () => {
                 GAVS Smart Attendance App
               </h2>
               <p className="text-textColor text-md max-w-sm">
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum
+                An Attendance App that gathers student attendance within the
+                Institution. since social distancing is strictly implemented. We
+                use a QR code to collect student data.
               </p>
               <div className="py-4 flex">
                 <FaJava
@@ -93,8 +95,8 @@ const Projects = () => {
                 Netflix Clone
               </h2>
               <p className="text-textColor text-md max-w-sm">
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum
+                Clone of Movie Gallery UI of Netflix's Website, in this project
+                I use TMDB API
               </p>
               <div className="py-4 flex">
                 <FaReact
@@ -151,8 +153,8 @@ const Projects = () => {
                 Product Preview Component
               </h2>
               <p className="text-textColor text-md max-w-sm">
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum
+                A simple responsive product preview challenge from the frontend
+                mentor website
               </p>
               <div className="py-4 flex">
                 <FaHtml5
@@ -201,8 +203,7 @@ const Projects = () => {
                 Notes App
               </h2>
               <p className="text-textColor text-md max-w-sm">
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum
+                A very simple NodeJS CRUD App, users can write notes
               </p>
               <div className="py-4 flex">
                 <FaNodeJs
@@ -217,9 +218,13 @@ const Projects = () => {
                   title="MongoDB"
                   className="text-titleColor text-4xl mr-2 hover:text-btnColor"
                 />
+                <FaBootstrap
+                  title="Bootstrap"
+                  className="text-titleColor text-4xl mr-2 hover:text-btnColor"
+                />
               </div>
               <p className="text-textColor">
-                NodeJS, ExpressJS, EJS & Mongoose
+                NodeJS, ExpressJS, EJS, Mongoose & Bootstrap
               </p>
               <div className="mt-2">
                 <a

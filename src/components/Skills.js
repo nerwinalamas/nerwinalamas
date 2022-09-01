@@ -20,7 +20,7 @@ const Skills = () => {
           Skills
         </h1>
 
-        <div className="grid grid-flow-col grid-rows-4 gap-5 p-4 mt-2 w-[450px] content-center">
+        <div className="grid grid-flow-col grid-rows-4 gap-5 p-4 mt-2 w-[350px] content-center">
           <FaHtml5
             title="HTML"
             className="text-titleColor text-7xl mr-2 hover:text-btnColor"

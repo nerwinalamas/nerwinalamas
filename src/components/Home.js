@@ -9,10 +9,15 @@ const Home = () => {
         </h5>
         <h1 className="text-nameColor text-4xl font-bold">Nerwin Alamas</h1>
         <p className="text-textColor py-2 text-md max-w-sm">
+          As an aspiring Web Developer, I like building and creating Websites. I
+          am looking forward to learning new skills and contributing to this
+          industry
+        </p>
+        {/* <p className="text-textColor py-2 text-md max-w-sm">
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus
           cupiditate quos beatae laudantium obcaecati error quis necessitatibus
           quibusdam aliquam nulla!
-        </p>
+        </p> */}
         <button className="bg-btnColor rounded py-2 px-6 mt-3 text-white text-semibold hover:bg-nameColor hover:text-btnColor">
           Contact me
         </button>
