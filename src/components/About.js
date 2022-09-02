@@ -4,10 +4,12 @@ import id from "../assets/id.png";
 const About = () => {
   return (
     <>
-      <div className="pt-10 px-10 h-screen">
+      <div className="my-10 py-15 px-10 md:flex justify-evenly gap-3 lg:max-w-8xl lg:justify-center lg:gap-8">
         <div>
-          <h1 className="text-nameColor text-4xl font-bold">About me</h1>
-          <p className="text-textColor py-2 text-md max-w-sm">
+          <h1 className="text-nameColor text-4xl font-bold  md:text-5xl">
+            About me
+          </h1>
+          <p className="text-textColor py-2 text-md max-w-sm md:text-lg">
             I love playing computer games since when i was 12 years old the time
             of Counter-Strike and Special Force back then, I regularly go to
             Computer shops after school to play, and at some point my curiosity
@@ -21,7 +23,11 @@ const About = () => {
           </p> */}
         </div>
         <div className="mt-5 p-2">
-          <img src={id} alt="nerwin alamas" className="rounded-lg" />
+          <img
+            src={id}
+            alt="nerwin alamas"
+            className="rounded-lg md:max-w-[300px]"
+          />
         </div>
       </div>
     </>

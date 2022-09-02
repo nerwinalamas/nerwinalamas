@@ -15,12 +15,12 @@ import { SiExpress, SiMongodb, SiTailwindcss } from "react-icons/si";
 const Skills = () => {
   return (
     <>
-      <div className="py-10 px-10 w-100 flex flex-col justify-center items-center">
-        <h1 className="text-nameColor text-4xl font-bold text-center">
+      <div className="my-10 py-10 px-10 w-100 flex flex-col justify-center items-center">
+        <h1 className="text-nameColor text-4xl font-bold text-center md:text-5xl">
           Skills
         </h1>
 
-        <div className="grid grid-flow-col grid-rows-4 gap-5 p-4 mt-2 w-[350px] content-center">
+        <div className="grid grid-cols-3 gap-5 p-4 mt-3 w-[350px] content-center md:grid-cols-4 md:gap-8 md:w-[450px] lg:grid-cols-6 lg:w-[600px]">
           <FaHtml5
             title="HTML"
             className="text-titleColor text-7xl mr-2 hover:text-btnColor"
