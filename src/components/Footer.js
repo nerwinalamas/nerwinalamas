@@ -11,7 +11,7 @@ const Footer = () => {
         </h1>
         <div className="flex flex-col-reverse gap-10 items-center pt-10 md:flex-row">
           <div className="text-center md:text-left ">
-            <p className="text-nameColor">(+63) 995 9369 334</p>
+            <p className="text-nameColor">(+63) 966 360 9104</p>
             <p className="text-nameColor">nerwinalamas@gmail.com</p>
           </div>
           <div className="flex justify-evenly items-center text-backgroundColor px-10 text-4xl w-[300px] ">
@@ -45,7 +45,7 @@ const Footer = () => {
             </a>
           </div>
         </div>
-        <h4 className="py-10 text-nameColor">Nerwin Alamas © 2022</h4>
+        <h4 className="py-10 text-nameColor">Nerwin Alamas © 2023</h4>
       </div>
     </>
   );
