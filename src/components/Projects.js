@@ -1,6 +1,6 @@
 import React from "react";
 import neckflix from "../assets/neckflix.png";
-import todolist from "../assets/todolist.png";
+import todolist from "../assets/todo.png";
 import tripples from "../assets/tripples.png";
 import {
   FaReact,
