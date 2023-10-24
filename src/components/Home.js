@@ -7,7 +7,10 @@ const Home = () => {
   };
   return (
     <>
-      <main className="pt-40 px-10 h-screen md:flex flex-col items-center">
+      <main
+        className="pt-40 px-10 h-screen md:flex flex-col items-center"
+        data-aos="fade-up"
+      >
         <h5 className=" text-titleColor pb-2 font-semibold text-xl md:text-4xl">
           Hello, my name is
         </h5>
@@ -15,7 +18,10 @@ const Home = () => {
           Nerwin Alamas
         </h1>
         <p className="text-textColor py-2 text-md max-w-md md:text-lg md:text-center lg:text-xl">
-        I am an aspiring Web Developer with a strong passion for crafting immersive online experiences. As an entry-level professional in the field, I am eager to showcase my skills and dedication to web development.
+          I am an aspiring Web Developer with a strong passion for crafting
+          immersive online experiences. As an entry-level professional in the
+          field, I am eager to showcase my skills and dedication to web
+          development.
         </p>
         <button
           onClick={handleResume}

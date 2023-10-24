@@ -2,15 +2,8 @@ import React from "react";
 import neckflix from "../assets/neckflix.png";
 import todolist from "../assets/todo.png";
 import tripples from "../assets/tripples.png";
-import {
-  FaReact,
-  FaJsSquare,
-  FaCss3Alt,
-} from "react-icons/fa";
-import {
-  SiVite,
-  SiTailwindcss,
-} from "react-icons/si";
+import { FaReact, FaJsSquare, FaCss3Alt } from "react-icons/fa";
+import { SiVite, SiTailwindcss } from "react-icons/si";
 
 const Projects = () => {
   return (
@@ -20,9 +13,8 @@ const Projects = () => {
           Projects
         </h1>
         <div className="md:grid grid-cols-2 gap-6 lg:grid-cols-3">
-          
           {/* Project 1 */}
-          <div className="my-10">
+          <div className="my-10" data-aos="fade-up">
             <div className="w-70 content-center">
               <a
                 href="https://3s-phi.vercel.app/"
@@ -85,7 +77,7 @@ const Projects = () => {
           </div>
 
           {/* Project 2 */}
-          <div className="my-10">
+          <div className="my-10" data-aos="fade-up">
             <div className="w-70 content-center">
               <a
                 href="https://todolist-nerwinalamas.vercel.app/"
@@ -148,7 +140,7 @@ const Projects = () => {
           </div>
 
           {/* Project 3 */}
-          <div className="my-10">
+          <div className="my-10" data-aos="fade-up">
             <div className="w-70 content-center">
               <a
                 href="https://netflix-clone-acifr52kq-nerwinalamas.vercel.app/"
@@ -179,7 +171,9 @@ const Projects = () => {
                     className="text-titleColor text-4xl mr-2 hover:text-btnColor"
                   />
                 </div>
-                <p className="text-textColor">React, JavaScript, CSS, & TMDB API</p>
+                <p className="text-textColor">
+                  React, JavaScript, CSS, & TMDB API
+                </p>
                 <div className="mt-2">
                   <a
                     href="https://github.com/nerwinalamas/Netflix-Clone"

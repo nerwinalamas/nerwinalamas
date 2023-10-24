@@ -5,7 +5,7 @@ const About = () => {
   return (
     <>
       <div className="my-10 py-15 px-10 md:flex justify-evenly gap-3 lg:max-w-8xl lg:justify-center lg:gap-20">
-        <div>
+        <div data-aos="fade-up">
           <h1 className="text-nameColor text-4xl font-bold  md:text-5xl">
             About me
           </h1>
@@ -18,7 +18,7 @@ const About = () => {
             Computer Engineering during my college years.
           </p>
         </div>
-        <div className="mt-5 p-2">
+        <div className="mt-5 p-2" data-aos="fade-up" data-aos-duration="3000">
           <img
             src={id}
             alt="nerwin alamas"

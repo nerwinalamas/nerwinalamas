@@ -15,7 +15,10 @@ import { SiExpress, SiMongodb, SiTailwindcss } from "react-icons/si";
 const Skills = () => {
   return (
     <>
-      <div className="my-10 py-10 px-10 w-100 flex flex-col justify-center items-center">
+      <div
+        className="my-10 py-10 px-10 w-100 flex flex-col justify-center items-center"
+        data-aos="fade-up"
+      >
         <h1 className="text-nameColor text-4xl font-bold text-center md:text-5xl">
           Skills
         </h1>
