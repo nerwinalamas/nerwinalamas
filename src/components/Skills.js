@@ -45,15 +45,15 @@ const Skills = () => {
             className="text-titleColor text-7xl mr-2 hover:text-btnColor"
           />
           <FaReact
-            title="ReactJS"
+            title="React"
             className="text-titleColor text-7xl mr-2 hover:text-btnColor"
           />
           <FaNodeJs
-            title="NodeJS"
+            title="Node"
             className="text-titleColor text-7xl mr-2 hover:text-btnColor"
           />
           <SiExpress
-            title="ExpressJS"
+            title="Express"
             className="text-titleColor text-7xl mr-2 hover:text-btnColor"
           />
           <SiMongodb
