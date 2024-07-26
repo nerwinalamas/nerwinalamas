@@ -10,4 +10,4 @@
 - 👀 I'm currently looking for opportunities
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,redux,next,nodejs,express,prisma,mongodb,mysql,tailwind,bootstrap,php,git,github,postman,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,redux,next,nodejs,express,prisma,mongodb,mysql,supabase,tailwind,bootstrap,php,git,github,postman,vscode,figma)](https://skillicons.dev)
