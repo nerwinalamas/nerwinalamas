@@ -6,7 +6,7 @@
 - 🏠 Currently living in Cainta, Rizal
 - 📫 How to reach me **nerwinalamas@gmail.com**
 - ☕ Fuel my creativity: **https://ko-fi.com/nerwinalamas**
-- 💻 You can visit my [Web portfolio](https://nerwinalamas.pages.dev/)
+- 💻 You can visit my **[web portfolio](https://nerwinalamas.pages.dev/)**
 - 👀 I'm currently looking for opportunities
 
 ### Languages and Tools:
