@@ -5,7 +5,6 @@
 - 👨‍💻 Next.js Developer | React.js Developer | MERN Stack Developer
 - 🏠 Currently living in Cainta, Rizal
 - 📫 How to reach me **nerwinalamas@gmail.com**
-- ☕ Fuel my creativity: **https://ko-fi.com/nerwinalamas**
 - 💻 You can visit my **[web portfolio](https://nerwinalamas.pages.dev/)**
 - 👀 I'm currently looking for opportunities
 
